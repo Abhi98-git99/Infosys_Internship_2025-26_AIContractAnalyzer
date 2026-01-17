@@ -13,4 +13,5 @@ pinecone
 sentence-transformers
 python-dotenv
 "unstructured[all-docs]"
-streamlit
+gradio
+
