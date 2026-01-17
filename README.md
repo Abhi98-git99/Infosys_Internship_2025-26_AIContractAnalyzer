@@ -1,4 +1,5 @@
 ﻿# Infosys_Internship_2025-26_AIContractAnalyzer
 
 
-To run: <code>streamlit run main.py</code>
+To run: <code>python main.py</code>
+
